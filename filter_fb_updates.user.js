@@ -4,7 +4,7 @@
 // @description    Script for filtering Facebook updates about a specific topic.
 // @include        http://*facebook.com*
 // @include        https://*facebook.com/*
-// @version        1.5
+// @version        1.5.1
 // @author         Varunkumar Nagarajan
 // ==/UserScript==
 
@@ -96,7 +96,7 @@ function prepareUI() {
 		return ; 
 	}
 	
-	screenName = document.querySelector("a.headerTinymanName").textContent;
+	screenName = document.querySelector("span.headerTinymanName").textContent;
 	screenName = screenName.trim();
 	
 	// Adding the Filters menu

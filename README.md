@@ -2,7 +2,7 @@ Filter FB Userscript
 ====================
 Script for filtering Facebook updates about a specific topic. Filter out likes, new friend connection, attachments, etc. Make your Facebook page clean using this script.
 
-Current version: 1.5
+Current version: 1.5.1
 
 Hosted at: http://userscripts.org/scripts/show/87293, http://services.varunkumar.me/static/scripts/filter_fb_updates.user.js
 
@@ -55,4 +55,4 @@ The source code is available [here](https://github.com/varunkumar/filter-fb) und
 
 -- [Varun](http://www.varunkumar.me)
 
-Last Modified: Sun Oct 02 12:50:36 IST 2011
+Last Modified: Sun Nov 27 16:07:36 IST 2011
